@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python virtual environments
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Conda environment files
+*.conda
+*.env
+*.yml
+
+# Conda environment directory
+.conda/
+
+# Data files
+ml-100k/
+data/
+*.csv
+*.tsv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.swo
