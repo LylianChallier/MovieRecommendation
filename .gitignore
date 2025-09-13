@@ -21,11 +21,13 @@ ENV/
 # Conda environment directory
 .conda/
 
-# Data files
+# Data files and figures
 ml-100k/
-data/
+figures/
 *.csv
 *.tsv
+$.png
+*.jpg
 
 # OS files
 .DS_Store
